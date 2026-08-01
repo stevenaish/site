@@ -102,7 +102,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: Miami University
         sub_title: Bachelor of Science, Finance Major, MIS Minor
 

@@ -9,7 +9,7 @@ name: Steve Naish
 title: People-Centered Leadership in Insurance Technology Transformation
 website: www.stevenaish.com
 location: Atlanta, Roswell, Georgia
-description: Steve Naish is an Atlanta based insurance technology leader with more than 30 years of experience in core system modernization, Guidewire cloud transformation, and generative and agentic AI in insurance.
+description: Steve Naish is an Atlanta based insurance technology executive with more than 30 years of experience in core system modernization, Guidewire cloud transformation, and generative and agentic AI in insurance.
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -24,7 +24,7 @@ additional_links:
 about_profile_image: images/profile.webp
 about_content: | # this will include new lines to allow paragraphs
 
-  Steve Naish brings a people-centered perspective to insurance technology leadership, focusing on collaboration, alignment, and long-term success. With more than 30 years of experience helping leading insurers drive profitable growth through technology, his work centers on modernizing core systems while supporting the teams responsible for delivering and sustaining those platforms.
+  Steve Naish is a business-focused technology executive who translates business strategy into technology outcomes, and technology capability into business results. He pairs a builder's mindset, honed co-founding two insurance technology startups acquired by public companies, with a proven ability to deliver through the large, complex, matrixed organizations of global insurers and consultancies. With more than 30 years of experience helping leading insurers drive profitable growth through technology, his work centers on modernizing core systems while supporting the teams responsible for delivering and sustaining those platforms.
 
   As Guidewire Ecosystem Services Leader at Cognizant since 2019, Naish guides insurers through cloud-based core system modernization across policy, claims, billing, data, and digital. He works closely with delivery teams and clients to ensure that transformation efforts are practical, well-governed, and aligned with user needs.
 
@@ -43,9 +43,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           Guides insurers through cloud-based core system modernization, partnering with carriers and delivery teams to keep transformation practical, well-governed, and aligned with business outcomes.
 
-          - Partnered with Ascot U.S. on its Guidewire ClaimCenter implementation on Guidewire Cloud Platform, publicly recognized by Ascot's Chief Claims Officer as one of the largest technology transformation projects the company has undertaken, delivered on time and under budget.
+          - Led teams that published ten accelerators on the Guidewire Marketplace in 2026, including product models spanning non-owned auto, excess auto, contingent lessor, aviation, earthquake, sports, and professional liability for architects, engineers, and technology consultants across the United States, Canada, and EMEA, built on Guidewire PolicyCenter Cloud and Advanced Product Designer.
+          - Most recently released the GWCP Intelligent Deployment Orchestrator Integration Gateway App, automating deployment readiness checks, build validation, mandatory database backups, and scheduled or on-demand deployments across PolicyCenter, ClaimCenter, BillingCenter, and ContactManager, alongside the Cloud Data Access Ingestion Framework for downstream data delivery.
+          - Guided large-scale ClaimCenter and PolicyCenter cloud implementations delivered on time and under budget through collaboration, trust, and effective governance.
           - Served as Cognizant's Guidewire practice spokesperson when Everest Group named Cognizant a Leader in its Guidewire Services PEAK Matrix Assessment, with Cognizant ranked number one for Vision and Capability.
-          - Led the team that developed the Canadian Commercial Auto Guidewire GO Product, an accelerator available on the Guidewire DevConnect Marketplace that streamlines Non-Owned (Hired) Auto policy implementation using Guidewire PolicyCenter Cloud and Advanced Product Designer.
           - Focused on applying generative and agentic AI to reimagine insurance operations, and participated in Cognizant's Guinness World Record setting online generative AI hackathon, in which more than 53,000 associates across 40 plus countries submitted over 30,000 prototypes and ideas.
 
       - layout: left

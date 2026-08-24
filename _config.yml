@@ -11,12 +11,16 @@ title: People-Centered Leadership in Insurance Technology Transformation
 website: www.stevenaish.com
 location: Atlanta, Roswell, Georgia
 description: Steve Naish is an Atlanta based insurance technology executive with more than 30 years of experience in core system modernization, Guidewire cloud transformation, and generative and agentic AI in insurance.
+image: /images/profile.webp
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 linkedin_username: stevenaish
+
+twitter:
+  card: summary_large_image
 
 # Additional icon links
 additional_links:
